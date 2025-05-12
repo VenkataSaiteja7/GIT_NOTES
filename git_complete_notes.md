@@ -1,5 +1,18 @@
 # Comprehensive Git Guide
 
+## Table of Contents
+1. [Introduction to Git](#1-introduction-to-git)
+2. [Git Basics](#2-git-basics)
+3. [Git Commands](#3-git-commands)
+4. [Branching and Merging](#4-branching-and-merging)
+5. [Remote Repositories](#5-remote-repositories)
+6. [Git Workflows](#6-git-workflows)
+7. [Git Rebase vs. Git Merge](#7-git-rebase-vs-git-merge)
+8. [Undoing Changes](#8-undoing-changes)
+9. [Git Tags](#9-git-tags)
+10. [Best Practices](#10-best-practices)
+11. [Troubleshooting](#11-troubleshooting)
+
 ## 1. Introduction to Git
 
 ### What is Git?

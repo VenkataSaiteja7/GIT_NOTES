@@ -1,5 +1,15 @@
 # Git Questions and Answers
 
+## Table of Contents
+1. [File States in Git](#1-file-states-in-git)
+2. [Why Add Modified Files Again?](#2-why-add-modified-files-again)
+3. [Working Tree Clean](#3-working-tree-clean)
+4. [The .git Directory](#4-the-git-directory)
+5. [Commits Included in HEAD](#5-commits-included-in-head)
+6. [Commits Not Included in HEAD](#6-commits-not-included-in-head)
+7. [Changing Initial Branch from Master to Main](#7-changing-initial-branch-from-master-to-main)
+8. [Git Merging Types](#8-git-merging-types)
+
 ## 1. File States in Git
 
 ### When a file is modified, what is its state (unstaged/staged)?
